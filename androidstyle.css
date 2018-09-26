@@ -1,0 +1,28 @@
+div {
+	margin:0;
+	padding:0;
+}
+
+div div{
+	background: #A4CA39;
+	position: relative;
+}
+
+.android {
+	height:404px;
+	width:334px;
+	margin: 100px auto;
+}
+
+.head {
+	width: 220px;
+	height:110px;
+}
+
+.l-eye, .r-eye{
+	background: #fff;
+	width: 20px;
+	height: 20px;
+
+	border-radius: 10px;
+}
